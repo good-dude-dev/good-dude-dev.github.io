@@ -237,7 +237,7 @@ h1,h2,h3,h4,h5
   margin: 50px auto;
   width: 50%;
   padding: 5px;
-  border-radius: 50px 50px 50px 50px;
+  
   }
 #exp>div h3{font-size:1.5em;font-weight:300;color:#374054;display:inline-block;margin:0}
 #exp>div h4{font-size:1.2em;font-weight:300;color:#7e8890;margin:0 0 15px 0}
